@@ -19,7 +19,7 @@ Please see [our paper](http://arxiv.org/abs/2406.07230) for more details.
 
 <img width="800" alt="image" src="assets/data_examples.jpg">
 
-## Main Findingds
+## Main Findings
 
 Based on our benchmark, we conducted a series of experiments. The main findings are summarized as follows:
 
